@@ -4,7 +4,7 @@ Car dealership Project : https://github.com/RajendranMS-2347248/car-dealership-p
     of Masters in Computer Application in Christ University ,Bangalore
 
 
-Face Recognition based Attendance System https://github.com/Rajendranms0416/VisionHack2024.git
+Face Recognition based Attendance System:  https://github.com/Rajendranms0416/VisionHack2024.git
 
     A Computer vision project developed to detect faces and mark attendance accordingly.
 
