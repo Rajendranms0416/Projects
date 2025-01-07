@@ -1,11 +1,14 @@
 Car dealership Project : https://github.com/RajendranMS-2347248/car-dealership-project.git
+    
     This a repository for the 1st Trimester Project of Webstack Developement course for the programme 
     of Masters in Computer Application in Christ University ,Bangalore
 
 
 Face Recognition based Attendance System https://github.com/Rajendranms0416/VisionHack2024.git
+
     A Computer vision project developed to detect faces and mark attendance accordingly.
 
 
 MotoMate : https://github.com/Rajendranms0416/MotoMate.git
+
     This is a Next.js project bootstrapped with create-next-app create dfor our specialization project.
